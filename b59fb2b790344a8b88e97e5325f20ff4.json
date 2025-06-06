@@ -1,0 +1,56 @@
+{
+  "produtos": [
+    {
+      "nome": "Água com gás",
+      "valor": "000000000500"
+    },
+    {
+      "nome": "Água sem gás",
+      "valor": "000000000500"
+    },
+    {
+      "nome": "Refrigerante Pureza",
+      "valor": "000000000750"
+    },
+    {
+      "nome": "Refrigerante Coca-Cola",
+      "valor": "000000001000"
+    },
+    {
+      "nome": "Cerveja Heineken",
+      "valor": "000000001590"
+    },
+    {
+      "nome": "Cerveja Brahma",
+      "valor": "000000001060"
+    },
+    {
+      "nome": "Chopp",
+      "valor": "000000002000"
+    },
+    {
+      "nome": "Suco de laranja",
+      "valor": "000000001250"
+    },
+    {
+      "nome": "Bandeja com 6 kibes - 1",
+      "valor": "000000005570"
+    },
+    {
+      "nome": "Bandeja com 6 kibes - 2",
+      "valor": "000000008790"
+    },
+    {
+      "nome": "Bandeja com 6 ou 8 docinhos",
+      "valor": "000000008090"
+    },
+    {
+      "nome": "Carteira de bingo (Oremos 1, 2, 3...)",
+      "valor": "000000000550"
+    },
+    {
+      "nome": "Convite pago na hora do evento",
+      "valor": "000000008500"
+    }
+  ]
+}
