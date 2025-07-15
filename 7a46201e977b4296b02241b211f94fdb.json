@@ -1,4 +1,4 @@
 {
-"cleanRemoteOp":false, 
-"filterRemoteOp":false
+"cleanRemoteOp":true, 
+"filterRemoteOp":true
 }
