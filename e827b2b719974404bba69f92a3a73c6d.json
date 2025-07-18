@@ -1,4 +1,4 @@
 {
-   "pagamentos":false,
-   "repeticoes":false
+   "pagamentos":true,
+   "repeticoes":true
 }
